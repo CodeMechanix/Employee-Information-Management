@@ -21,13 +21,13 @@ Create a grid/table with pagination so that we can  bulk edit the employee infor
 ## Demo of Project:
 
 ### All Employee List
-![All Employee List]()
+![All Employee List](https://github.com/CodeMechanix/Employee-Information-Management/blob/master/images/list.PNG)
 
 ### Edit Employee Data
-![Edit Employee Data]()
+![Edit Employee Data](https://github.com/CodeMechanix/Employee-Information-Management/blob/master/images/edit.PNG)
 
 ### Delete Employee from List
-![Delete Employee Data]()
+![Delete Employee Data](https://github.com/CodeMechanix/Employee-Information-Management/blob/master/images/list.PNG)
 
 
 
